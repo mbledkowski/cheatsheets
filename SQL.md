@@ -3,12 +3,17 @@
 ## data types
 
 **INT** - integers
+
 **DECIMAL**(X,Y) - decimal numbers
 (X - number of digits; Y - number of digits after decimal point)
+
 **VARCHAR**(L) - string of text
 (L - number of characters, length)
+
 **BLOB** - Binary Large OBject, stores large objects like images, files etc.
+
 **DATE** - 'YYYY-MM-DD'
+
 **TIMESTAMP** - 'YYYY-MM-DD HH:MM:SS'
 
 ## instructions
